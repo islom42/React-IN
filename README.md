@@ -2,7 +2,13 @@
 
 ## Lesson 2
 
--Reduce
--Descruction
--Spread Operator
--Fucntion
+- What is React
+- Component 
+- JSX
+
+- Component base **Reusable**
+- Component
+  - HTML + CSS + JS
+
+- Node JS
+- npm
